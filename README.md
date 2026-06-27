@@ -616,7 +616,7 @@ This project is licensed under the MIT License.
 IoT & Embedded Systems Engineer | Cybersecurity Enthusiast | Machine Learning Learner
 
 * GitHub: https://github.com/MohammedHabibQureshi
-* LinkedIn: *(Add your LinkedIn profile link here)*
+* LinkedIn: https://www.linkedin.com/in/md-habib-qureshi
 
 ---
 
